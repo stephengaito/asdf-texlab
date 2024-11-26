@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# This asdf shell script provides a brief overview of TeXLab
+
+echo "An implementation of the Language Server Protocol for LaTeX"
+echo ""
